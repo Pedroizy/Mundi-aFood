@@ -1,6 +1,6 @@
-# MundiçaFood - Sistema de Gerenciamento de Pedidos de Restaurante (Grupo 10)
+# MUNDIÇAFOOD - DO TAMANHO DA SUA FOME! (SystemPDV) — Grupo 10
 
-Projeto desenvolvido para a disciplina **Paradigmas de Programação – Aula 07**, da **UNINASSAU**, sob orientação do **Prof. Marco Rogério**[cite: 1, 2, 23, 24].
+Sistema de gerenciamento de pedidos de restaurante desenvolvido para a disciplina **Paradigmas de Programação – Aula 07**, da **UNINASSAU**, sob orientação do **Prof. Marco Rogério**
 
 ---
 
